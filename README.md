@@ -31,4 +31,4 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-batista-da-silva-56b6392b5)
 
-⌨️ com por [Matheus H.B.](https://github.com/felipeAguiarCode)
+⌨️ com por [Matheus H.B.](https://github.com/Theushenriix)
